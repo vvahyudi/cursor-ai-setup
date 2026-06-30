@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+research/youtube-transcripts/raw-vtt/
+b2b-saas-linkedin-organic-research/
+b2b-saas-linkedin-organic-research.zip
+cold-outreach-research.zip

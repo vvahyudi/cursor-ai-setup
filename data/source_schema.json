@@ -1,0 +1,23 @@
+{
+  "expert": {
+    "id": "string",
+    "name": "string",
+    "role": "string",
+    "why_included": "string",
+    "links": "object",
+    "notes": "array[string]"
+  },
+  "source": {
+    "source_id": "string",
+    "expert_id": "string",
+    "platform": "linkedin|youtube|podcast|website|other",
+    "url": "string",
+    "title": "string",
+    "published_at": "date|null",
+    "captured_at": "datetime",
+    "collection_method": "manual|supadata|youtube_data_api|yt_dlp|public_index",
+    "raw_text_path": "string|null",
+    "summary_path": "string|null",
+    "rights_notes": "string|null"
+  }
+}
